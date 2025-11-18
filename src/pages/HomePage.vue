@@ -176,14 +176,13 @@ async function claimFromvault() {
 }
 
 .q-btn{
-  border:blue solid 1px;
-  background-color: none;
-  box-shadow: none;
-  }
-
-  .q-btn:hover{
-    background-color: blue;
-    color:white;
+  background-color: blue;
+  color:white;
+}
+.q-btn:hover{
+   background-color: white;
+  color:black;
   }
 </style>
+
 
